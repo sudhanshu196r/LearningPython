@@ -13,10 +13,10 @@ def find_fewest_notes(change, index=0, notes_count=0, notes_returned=[]):
     
     Description :
             This function is used to find the fewest notes
-        Parameters :
-            change: change to be returned
+    Parameters :
+        change: change to be returned
 
-        Return :
+    Return :
             It returns the fewest number of notes for change
 
     """
