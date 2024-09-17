@@ -1,13 +1,11 @@
 '''
     @Author: Sudhanshu Kumar
-    @Date: 16-09-2024
+    @Date: 17-09-2024
     @Last Modified by: Sudhanshu Kumar
-    @Last Modified time: 16-09-2024
-    @Title : Python program to reverse a number
+    @Last Modified time: 17-09-2024
+    @Title : Python program to return minimum change from vending machine
 
 '''
-
-
 
 
 def find_fewest_notes(change, index=0, notes_count=0, notes_returned=[]):
