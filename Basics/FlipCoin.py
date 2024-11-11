@@ -1,3 +1,12 @@
+'''
+    @Author: Sudhanshu Kumar
+    @Date: 19-09-2024
+    @Last Modified by: Sudhanshu Kumar
+    @Last Modified time: 04-11-2024
+    @Title : User Registration problem
+
+'''
+
 import random
 
 num = int(input("Enter no. of times to flip the coin: "))
